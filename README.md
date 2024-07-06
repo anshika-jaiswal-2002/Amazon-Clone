@@ -15,7 +15,7 @@ Any modern web browser (e.g., Chrome, Firefox, Safari).
 
 Installation :
 
-Clone the repository to your local machine: git clone 
+Clone the repository to your local machine: git clone https://github.com/anshika-jaiswal-2002/Amazon-Clone/tree/main 
 2.Navigate to the project directory:
 
 cd Amazon-Clone
